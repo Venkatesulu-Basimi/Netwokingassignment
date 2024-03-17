@@ -1,0 +1,1 @@
+20.244.83.35 ansible_ssh_user=Targetnode ansible_ssh_pass=Venky1141@1141
